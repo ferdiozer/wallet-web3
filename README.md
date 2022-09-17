@@ -1,8 +1,13 @@
 # Web3 Connect Wallet
 
-## React 
+## Crypto
 
-### `npm i`
-### `npm start`
+### React & Metamask
 
-### `npm run build`
+```
+
+npm i
+npm start
+npm run build
+
+```
